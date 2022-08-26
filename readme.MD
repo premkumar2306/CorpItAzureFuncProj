@@ -16,5 +16,9 @@ npm install -g azure-functions-core-tools@3 --unsafe-perm true
 ``` func new ```
 
 
+## Run Function
+``` func start ``
+
+
 ## Publish 
 ``` func azure functionapp publish <FunctionAppName> ```
